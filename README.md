@@ -24,7 +24,7 @@
 
 ## Description
 
-Music App API developed in NestJS
+Music App API developed in NestJS, using MongoDB.
 
 ## Installation
 
